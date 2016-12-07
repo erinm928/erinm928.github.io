@@ -2,10 +2,10 @@
 /* Modified by github.com/tengrrl */
 
   body {
-    margin:0;
+    margin:20;
     padding:0;
-    font-family: Sans-Serif;
-    line-height: 1.5em;
+    font-family: cursive;
+    line-height: 1.7em;
   }
 
   /* Change the background color    */
@@ -13,13 +13,13 @@
   /* link to a background image     */
   /* and remove the comment code.   */
   header {
-    background: #rgb(236, 138, 208);
+    background: rgb(240, 192, 222);
     height: 100px;
     /* background-image: url("put-link-to-image-here"); the quotation marks are required */
   }
 
   header h1 {
-    margin: 0;
+    margin: 400;
     padding-top: 15px;
   }
 
@@ -55,11 +55,11 @@
   }
 
   #content {
-    margin-right: 230px; /* Same as 'nav' width */
+    margin-right: 0px; /* Same as 'nav' width */
   }
 
   .innertube {
-    margin: 15px; /* Padding for content */
+    margin: 0px; /* Padding for content */
     margin-top: 0;
   }
 
